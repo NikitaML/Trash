@@ -1,3 +1,9 @@
 body{
     background-color: rgb(63, 236, 156);
+    text-align: center;
 }
+p{
+    font-size: 10px;
+    color: mix($color: #16775a, $color: #5661f3, $weight: 0.5);
+}
+
